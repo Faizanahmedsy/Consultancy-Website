@@ -1,0 +1,178 @@
+body {
+  font-family: "Montserrat";
+}
+
+#title {
+  background-color: #f49d1a;
+  color: #fff;
+}
+
+h1 {
+  /* font-family: "Montserrat-Black"; */
+  font-family: "Lexend", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: "Montserrat";
+  font-weight: 700;
+}
+
+p {
+  color: #8f8f8f;
+}
+.front-head {
+  padding: 5% 15% 5% 15%;
+}
+
+/* Navigation bar */
+
+.navbar {
+  padding-bottom: 0 0 4.5rem;
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  padding-left: 40px;
+}
+
+.nav-item {
+  padding: 0px 18px;
+}
+
+.nav-link {
+  font-family: "Montserrat";
+  font-size: 1.2rem;
+}
+
+#features {
+  padding: 7% 15%;
+}
+.feature-box {
+  text-align: center;
+  padding: 4.5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+/* second pGE */
+
+.second-heading {
+  padding-top: 50px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: black;
+}
+.second-text {
+  padding-bottom: 50px;
+  text-align: center;
+}
+
+.second-page-botton {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/* third pGE */
+#third-page {
+  background-color: #f49d1a;
+}
+
+.third-heading {
+  padding-top: 50px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: azure;
+}
+
+.third-text {
+  padding-bottom: 50px;
+  text-align: center;
+  color: azure;
+}
+
+.third-page-botton {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+#contact {
+  background-color: black;
+  padding-bottom: 100px;
+  padding-top: 100px;
+  padding-right: 400px;
+  padding-left: 400px;
+}
+
+.section-heading {
+  color: azure;
+}
+
+.form-control {
+  margin: 20px;
+}
+
+/* Textimonial section */
+#testimonials {
+  text-align: center;
+  background-color: #f49d1a;
+  color: #fff;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.testimonial-img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  background-color: #F49D1A;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-img {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+
+.two-boxes{
+  
+  margin: 10px;
+  width: 40%;
+  
+}
+
+.big-box{
+  text-align: center;
+}
+
+/* pricing section */
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
